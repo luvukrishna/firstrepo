@@ -1,0 +1,5 @@
+this is my first git repo
+git is fun
+no need of gun
+let git run
+
